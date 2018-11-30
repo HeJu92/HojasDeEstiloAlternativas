@@ -1,0 +1,9 @@
+p{
+    background-color: lightskyblue;
+    color: yellow;
+    border-top: blue 5px solid;
+    border-bottom: blue 5px solid;
+}
+body{
+    background-color: yellow;
+}
